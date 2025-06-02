@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Disable Netflix houshold check
+// @name         Disable Netflix household check
 // @namespace    https://github.com/Sansou81
 // @version      1.0.0
 // @description  Small check to disable "Your device isn’t part of the Netflix household" check on Netflix
